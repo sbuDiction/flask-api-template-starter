@@ -1,6 +1,3 @@
 flask
-numpy
 gunicorn
 flask-cors
-keras
-tensorflow-cpu
